@@ -32,3 +32,5 @@ Quer ajudar a melhorar o StreamPlay? Todos são bem-vindos!
 Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 **Vamos juntos transformar a forma como consumimos conteúdo!**
+
+link da aplicação | https://imersao-dev-gemini-ebon.vercel.app/
