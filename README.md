@@ -1,4 +1,4 @@
-## StreamPlay: Seu Guia Completo para o Mundo do Streaming! 
+## StreamPlay: Seu Guia Completo para o Mundo do Streaming! ( Imersão DEV com o Google Gemini
 
 **O que é o StreamPlay?**
 
