@@ -33,4 +33,4 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para ma
 
 **Vamos juntos transformar a forma como consumimos conteúdo!**
 
-**link da aplicação** | https://imersao-dev-gemini-ebon.vercel.app/
+**Link da aplicação** | https://imersao-dev-gemini-ebon.vercel.app/
